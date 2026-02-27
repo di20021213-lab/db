@@ -28,3 +28,4 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 Задание 2
 Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
+<img width="874" height="795" alt="2 задание нетология" src="https://github.com/user-attachments/assets/b9be341f-e3ee-47ff-b2d6-f79e8c2a6d6f" />
